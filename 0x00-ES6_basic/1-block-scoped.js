@@ -1,3 +1,9 @@
+/*
+ * auther: Tinotenda
+ * ALX Backend with JavaScript
+ * Task-1
+ */
+
 export default function taskBlock(trueOrFalse) {
   const task = false;
   const task2 = true;
