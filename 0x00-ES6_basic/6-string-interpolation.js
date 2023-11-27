@@ -1,3 +1,8 @@
+/*
+ * auther: Tinotenda
+ * ALX Backend with JavaScript
+ */
+
 export default function getSanFranciscoDescription() {
     const year = 2017;
     const budget = {
