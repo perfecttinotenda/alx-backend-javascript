@@ -1,4 +1,4 @@
-/* 
+/*
     Task: 100-weak.js
     Author: Tinotenda
 */
@@ -13,7 +13,7 @@ export function queryAPI(endpoint) {
     weakMap.set(endpoint, count);
 
     if (count >= 5) {
-      throw new Error("Endpoint load is high");
+      throw new Error('Endpoint load is high');
     }
   }
 }

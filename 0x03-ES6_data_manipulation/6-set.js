@@ -1,4 +1,4 @@
-/* 
+/*
     Task: 6-set.js
     Author: Tinotenda
 */

@@ -1,11 +1,11 @@
-/* 
+/*
     Task: 10-update_uniq_items.js
     Author: Tinotenda
 */
 
 function updateUniqueItems(groceriesMap) {
   if (!(groceriesMap instanceof Map)) {
-    throw new Error("Cannot process");
+    throw new Error('Cannot process');
   }
 
   for (const [item, quantity] of groceriesMap) {

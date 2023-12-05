@@ -1,4 +1,4 @@
-/* 
+/*
     Task: 7-has_array_values.js
     Author: Tinotenda
 */
